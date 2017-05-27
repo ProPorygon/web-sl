@@ -73,7 +73,6 @@ window.onload = async function() {
         if (status == 1)
             break;
     }
-    console.log("done");
 };
 
 function updateString(textData, string, x, y) {
